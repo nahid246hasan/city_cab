@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130417020570",
+    "project_id": "city-cab-b58d0",
+    "storage_bucket": "city-cab-b58d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130417020570:android:6096ed4638f5cc922e9923",
+        "android_client_info": {
+          "package_name": "com.nahid.citycab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxvP_Bz59gcf6mO7l4I-5b5FZsLxX7Vjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
